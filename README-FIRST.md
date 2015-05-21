@@ -13,3 +13,8 @@ Some pointers which I have learned through my experimentaton
 3.  Set the jar permission to executable in the sandbox(it runs a flavour of centOS) some times it may not be happy otherwise.
 4.  hadoop jar <jar name> <input file path in hdfs> < ouput file path in hdfs> is format for running the jar on the sandbox
 5.  There is a web interface for horton works where in users can view,download and upload files to hdfs (simplest way :) )
+
+For people reading this after going through my blog , given are the programs and the corresponding source code locations
+1. Program 1 -> TemperatureSorting folder
+2. Program 2 and 3 -> MaxMinTemperature folder
+3. Program 4 and 5 -> 2014MinMaxTemperature folder
